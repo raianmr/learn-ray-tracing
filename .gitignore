@@ -1,13 +1,15 @@
 # Directories
 .vs/
+.idea/
+.vscode/
 bin/
 bin-int/
 
 # Files
-*.vcxproj
-*.vcxproj.user
-*.vcxproj.filters
-*.sln
+# *.vcxproj
+# *.vcxproj.user
+# *.vcxproj.filters
+# *.sln
 
 # Exclude
 !vendor/bin
